@@ -1,0 +1,24 @@
+{
+  "name": "graphql-books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahrahaji10/graphql-books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahrahaji10/graphql-books/issues"
+  },
+  "homepage": "https://github.com/zahrahaji10/graphql-books#readme",
+  "dependencies": {
+    "apollo-server": "^3.10.0",
+    "graphql": "^16.5.0"
+  }
+}
